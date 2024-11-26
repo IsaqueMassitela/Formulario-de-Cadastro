@@ -1,7 +1,9 @@
 form {
     /* Centralizar o formulario */
-    margin: 500auto;
-    width: 400px;
+    margin: 2%;
+    width: 50%;
+
+    
     /* Limites do formulário */
     padding: 1em;
     border: 1px solid #141313;
